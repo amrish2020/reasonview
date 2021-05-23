@@ -5,3 +5,6 @@
 * Run ` npm install ` 
 * Run ` npm run serve` 
 * Done !!!
+
+* For API url default is "http://127.0.0.1:8000/api/auth/"
+* if you have different URL then please change it in \src\router\index.js change in "window.APIURL" variable.
